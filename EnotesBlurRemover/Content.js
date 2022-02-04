@@ -1,3 +1,4 @@
+// code made by u/VirajPrateeek
 (function() {
 'use strict';
 //remove class name starting with underscore
