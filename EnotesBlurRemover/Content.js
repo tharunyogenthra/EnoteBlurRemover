@@ -16,6 +16,3 @@ var p = document.getElementsByClassName('c-answer__body')
 var c = p[0].children;
 c[c.length-1].className=""; })();
 
-
-
-u/Planet0259-S
