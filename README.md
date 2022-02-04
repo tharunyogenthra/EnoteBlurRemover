@@ -1,6 +1,7 @@
 # EnoteBlurRemover
 ## Steps how to install this extension
 
+- Download all the source code
 - Go into settings on chrome
 - Click on the extensions
 
